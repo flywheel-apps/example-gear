@@ -1,5 +1,6 @@
 {
 	"name":     "flywheel-example-gear",
+	"label": "Flywheel Example Gear",
 	"description": "Sample gear to demonstrate a simple use case of outputting the name of each input file.",
 	"author": "Ryan Sanford <ryansanford@flywheel.io>",
 	"url": "https://flywheel.io/",
