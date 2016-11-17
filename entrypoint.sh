@@ -1,9 +1,8 @@
 #!/usr/bin/env bash
 (
   #
-  # create file_list.txt with one line per filename in input.
+  # create result.txt with some example information.
   #
-
 
   # Set cwd
   unset CDPATH
